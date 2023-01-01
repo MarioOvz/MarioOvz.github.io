@@ -1,3 +1,6 @@
 html 
 a = "hello word"
 print(a)
+b = "consistency"
+c = a + b 
+print (c)
