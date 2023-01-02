@@ -4,3 +4,4 @@ print(a)
 b = "consistency"
 c = a + b 
 print (c)
+c2 = a2 + b2
